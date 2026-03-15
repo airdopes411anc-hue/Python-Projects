@@ -1,6 +1,6 @@
 # Python Projects
 
-A collection of Python programs written while learning Python in Class 12 (CBSE PCM + CS stream).
+A collection of Python programs written while learning Python in Class 12.
 Built over 7 months (August 2025 – March 2026).
 
 ---
@@ -14,7 +14,7 @@ Checks the strength of a password based on length, uppercase, lowercase, digits,
 
 ### Banking System
 A menu-driven banking program with deposit, withdrawal, and balance display. Handles edge cases like negative amounts and overdraft.
-> Built following a tutorial — logic understood and can be explained.
+> Built following a tutorial.
 
 ### Dice Roller
 Rolls one or more dice and displays the result using ASCII art. Shows total of all dice.
@@ -60,4 +60,4 @@ Smaller focused scripts, each practicing a specific concept.
 
 ## About
 
-Class 12 student | CBSE PCM + CS | Learning Python and building small projects.
+Class 12 student | Learning Python and building small projects.
